@@ -3,6 +3,9 @@
 <!--
 **amadotejada/amadotejada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
