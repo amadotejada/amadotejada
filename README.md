@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
-\
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amadotejada/)
 
 ![Python](https://img.shields.io/badge/-Python-F4A460?style=flat&logo=python)
