@@ -12,3 +12,4 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-FFFFFF?style=flat&logo=ansible&logoColor=181717)
 
 
+<img alt="GIF" src="https://github.com/amadotejada/amadotejada/blob/master/peleton3.jpg" width="480"/>
