@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amadotejada/)  
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amadotejada/)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
@@ -10,3 +10,5 @@
 ![GCP](https://img.shields.io/badge/-GCP-6495ED?style=flat&logo=google&logoColor=181717)
 ![Terraform](https://img.shields.io/badge/-Terraform-FFC300?style=flat&logo=Terraform&logoColor=181717)
 ![Ansible](https://img.shields.io/badge/-Ansible-FFFFFF?style=flat&logo=ansible&logoColor=181717)
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
