@@ -1,7 +1,5 @@
 
-## Hi 👋 :nerd_face:
-
-# :pizza: :dominican_republic: :us: :video_game: :computer:
+## Hi there! 👋 :nerd_face: :dominican_republic: :us: :video_game: :computer: :pizza:
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amadotejada/)
 
@@ -14,5 +12,5 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-FFC300?style=flat&logo=Terraform&logoColor=181717)
 ![Ansible](https://img.shields.io/badge/-Ansible-FFFFFF?style=flat&logo=ansible&logoColor=181717)
 
-
 <img alt="GIF" src="https://github.com/amadotejada/amadotejada/blob/master/peleton3.jpg" width="480"/>
+ 
