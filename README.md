@@ -11,4 +11,4 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-FFC300?style=flat&logo=Terraform&logoColor=181717)
 ![Ansible](https://img.shields.io/badge/-Ansible-FFFFFF?style=flat&logo=ansible&logoColor=181717)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+<img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
