@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amadotejada/)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/> -->
 
 ![Python](https://img.shields.io/badge/-Python-F4A460?style=flat&logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-white?style=flat&logo=linux&logoColor=black)
