@@ -9,6 +9,7 @@
 ![Bash](https://img.shields.io/badge/-Bash-white?style=flat&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-FAEBD7?style=flat&logo=amazon&logoColor=181717)
 ![GCP](https://img.shields.io/badge/-GCP-6495ED?style=flat&logo=google&logoColor=181717)
+![Azure](https://img.shields.io/badge/-Azure-6435ED?style=flat&logo=microsoft&logoColor=181717)
 ![Terraform](https://img.shields.io/badge/-Terraform-FFC300?style=flat&logo=Terraform&logoColor=181717)
 ![Ansible](https://img.shields.io/badge/-Ansible-FFFFFF?style=flat&logo=ansible&logoColor=181717)
 
