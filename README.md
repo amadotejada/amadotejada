@@ -7,7 +7,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-F4A460?style=flat&logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-white?style=flat&logo=linux&logoColor=black)
-<br>
+<br> 
 ![AWS](https://img.shields.io/badge/-AWS-FAAD7?style=flat&logo=amazon&logoColor=181717)
 ![GCP](https://img.shields.io/badge/-GCP-6495ED?style=flat&logo=google&logoColor=181717)
 ![Azure](https://img.shields.io/badge/-Azure-6435ED?style=flat&logo=microsoft&logoColor=181717)
