@@ -22,6 +22,4 @@
 ![Linux](https://img.shields.io/badge/-Linux-FFFF00?style=flat&logo=linux&logoColor=181717)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-6495ED?style=flat&logo=Windows&logoColor=white)
-
-<img alt="GIF" src="https://github.com/amadotejada/amadotejada/blob/master/peleton3.jpg" width="480"/>
  
