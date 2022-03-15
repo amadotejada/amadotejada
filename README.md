@@ -5,6 +5,5 @@
 
 Created of [Self Portal](https://github.com/amadotejada/self-portal) - a cross-platform desktop application used to deploy software via Chef.
 
-#
 <img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="width:300px;"/>
 
