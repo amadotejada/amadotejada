@@ -1,5 +1,5 @@
 
-## Hi there! 👋 :nerd_face: :dominican_republic: :us: :video_game: :computer: :pizza:
+## Hi there! 👋 :nerd_face: :dominican_republic: :us: :video_game: :computer:
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amadotejada/)
 
