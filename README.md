@@ -5,6 +5,6 @@
 
 Creator of:
 - [Self Portal](https://github.com/amadotejada/self-portal) - a cross-platform desktop application to deploy software across your endpoints fleet
-- [Self Wiki](https://github.com/amadotejada/self-wiki) - a tool used to provide internal company information to employees right from the browser
+- [Self Wiki](https://github.com/amadotejada/self-wiki) - a tool used to provide internal company information and help to employees right from the browser
 <!-- <br/> -->
 <img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="width:300px;"/>
