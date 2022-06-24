@@ -2,7 +2,7 @@
 ## Hi there! 👋 :nerd_face: :dominican_republic: :us: :video_game: :computer:
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amadotejada)
-&nbsp;&nbsp;[![Macadmins](https://img.shields.io/badge/Macadmins-4A154B?style=for-the-badge&logo=slack&logoColor=white)](slack://user?team=T04QVKUQG&id=U016Z75NSKA)
+&nbsp;&nbsp;[![Macadmins](https://img.shields.io/badge/Macadmins-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://macadmins.slack.com/channels/D0162KV3TLN)
 
 
 Creator of:
