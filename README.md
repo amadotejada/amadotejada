@@ -18,4 +18,4 @@ Creator of:
 - [Instant Check-in CLI](https://github.com/amadotejada/instant-checkin-cli) - a companion CLI to *instant-checkin* to help you enforce check-in on the command line
 
 <br/>
-<img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="75%" height="75%"/>
+<img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50%" height="50%"/>
