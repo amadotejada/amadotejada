@@ -17,5 +17,7 @@ Creator of:
 
 - [Instant Check-in CLI](https://github.com/amadotejada/instant-checkin-cli) - a companion CLI to *instant-checkin* to help you enforce check-in on the command line
 
+- [TapmacOS](https://github.com/amadotejada/TapmacOS) - a tool that encourages users to update macOS without forcefully interrupting their workflow 
+
 <br/>
 <img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="75%" height="75%"/>
