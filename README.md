@@ -19,5 +19,7 @@ Creator of:
 
 - [TapmacOS](https://github.com/amadotejada/TapmacOS) - a tool that encourages users to update macOS without intrusively interrupting their workflow 
 
+- [PreStage Syncer](https://github.com/amadotejada/jamf_prestage_syncer) - a tool for synchronizing Jamf's PreStage Enrollments
 <br/>
+
 <img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="75%" height="75%"/>
