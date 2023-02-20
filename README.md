@@ -3,6 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amadotejada) [![Schedule Meeting](https://img.shields.io/badge/-schedule_meeting-success?style=for-the-badge&logo=gcal)](https://calendly.com/amadotejada)
 
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go-old/go-old.png" height="50">
 
 
 Creator of:
