@@ -12,7 +12,7 @@ Creator of:
 
 - [unopass](https://github.com/amadotejada/unopass) - a convenient python module that allows you to retrieve secrets from 1Password CLI using your biometrics
 
-- [unopass-go](https://github.com/amadotejada/unopass) - unopass written in Go, package retrieve secrets from 1Password CLI using your biometrics
+- [unopass-go](https://github.com/amadotejada/unopass-go) - unopass written in Go, package retrieve secrets from 1Password CLI using your biometrics
 
 - [GAMpass](https://github.com/amadotejada/GAMpass) - a tool to encrypt & decrypt GAM secrets at runtime using your biometrics with unopass
 
