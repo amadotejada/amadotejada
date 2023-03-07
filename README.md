@@ -25,4 +25,7 @@ Creator of:
 - [PreStage Syncer](https://github.com/amadotejada/jamf_prestage_syncer) - a tool for synchronizing Jamf's PreStage Enrollments
 <br/>
 
+- [jamf Exporter]([https://github.com/amadotejada/jamf_prestage_syncer](https://github.com/amadotejada/jamf-exporter)) - Export all scripts, proflles and more from Jamf Pro
+<br/>
+
 <img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50%" height="50%"/>
