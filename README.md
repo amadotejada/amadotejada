@@ -28,4 +28,4 @@ Creator of:
 
 <br/>
 
-<img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50%" height="50%"/>
+<!-- <img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50%" height="50%"/> -->
