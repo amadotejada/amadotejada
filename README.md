@@ -20,7 +20,7 @@ Creator of:
 
 - [Instant Check-in](https://github.com/amadotejada/instant-checkin) - perform instant check-ins to your fleet using your MDM solution via Profile (APNs)
 
-- [Instant Check-in CLI](https://github.com/amadotejada/instant-checkin-cli) - ompanion CLI to *instant-checkin* to help you enforce check-in on the command line
+- [Instant Check-in CLI](https://github.com/amadotejada/instant-checkin-cli) - companion CLI to *instant-checkin* to help you enforce check-in on the command line
 
 - [TapmacOS](https://github.com/amadotejada/TapmacOS) - tool that encourages users to update macOS without intrusively interrupting their workflow 
 
