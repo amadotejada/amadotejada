@@ -1,10 +1,11 @@
 
-Hi there! 👋🏽 :nerd_face: :dominican_republic: :us: :video_game: :computer:
+Skilled Hungry, Get Shit Done, Powerhouse, ‎
+Automating All Things, Coffee Addicted Engineer
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amadotejada) [![Schedule Meeting](https://img.shields.io/badge/-schedule_meeting-success?style=for-the-badge&logo=gcal)](https://calendly.com/amadotejada/meet)
 
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go-old/go-old.png" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/> <img src="https://raw.githubusercontent.com/logo/apple/00fa94ee3384286b871f80d33f8fdeb29d1421c0/images/logo.svg" height="50"/> 
-
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go-old/go-old.png" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/> <img src="https://raw.githubusercontent.com/logo/apple/00fa94ee3384286b871f80d33f8fdeb29d1421c0/images/logo.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50"/> 
+          
 Creator of:
 - [CorpMind.ai](https://corpmind.ai) - ChatGPT AI Assistants for your business. Trained from your company documents.
 
