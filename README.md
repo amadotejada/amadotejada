@@ -29,6 +29,10 @@ Creator of:
 
 - [Jamf Exporter](https://github.com/amadotejada/jamf-exporter) - Export all scripts, proflles and more from Jamf Pro
 
+- *private* [Employee Directory - Web](https://github.com/amadotejada/employee-dir-web) - Web app to quicky find and contact corp employee, teams via Slack.
+
+- *private* [Employee Directory - Chrome Extention](https://github.com/amadotejada/employee-dir-ext) - Chrome app to quicky find and contact corp employees, teams via Slack.
+
 <br/>
 
 <!-- <img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50%" height="50%"/> -->
