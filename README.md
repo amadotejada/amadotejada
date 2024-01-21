@@ -5,20 +5,20 @@ Skilled Hungry, Get Shit Done, Powerhouse, ‎Automating All Things, Coffee Addi
 #
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go-old/go-old.png" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/> <img src="https://raw.githubusercontent.com/logo/apple/00fa94ee3384286b871f80d33f8fdeb29d1421c0/images/logo.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50"/> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,bash,powershell)](https://skillicons.dev)
 #
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,bash,powershell&theme=light)](https://skillicons.dev)
 #
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,bash,powershell,vue,flutter&perline=3)](https://skillicons.dev)
 #
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+        <img src="https://skillicons.dev/icons?i=py,go,bash,powershell,vim" />
   </a>
 </p>
-#          
-#
+      
+
 Creator of:
 - [CorpMind.ai](https://corpmind.ai) - ChatGPT AI Assistants for your business. Trained from your company documents.
 
