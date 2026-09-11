@@ -5,7 +5,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=python,go,bash,aws,terraform,docker,apple,githubactions&theme=dark&perline=8">
+      srcset="https://skillicons.dev/icons?i=python%2Cgo%2Cbash%2Caws%2Cterraform%2Cdocker%2Capple%2Cgithubactions&theme=dark&perline=8">
     <img alt="Python, Go, Bash, AWS, Terraform, Docker, macOS, GitHub Actions" height="40"
       src="https://skillicons.dev/icons?i=python,go,bash,aws,terraform,docker,apple,githubactions&theme=light&perline=8">
   </picture>
