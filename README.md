@@ -47,7 +47,7 @@
 - AWS Certified Generative AI Developer · Professional
 - HashiCorp Certified: Terraform Associate
 
-Verify on [Credly](https://www.credly.com/users/amado-tejada)
+#### Verify on [Credly](https://www.credly.com/users/amado-tejada)
 
 ### Open sourced to the community
 
