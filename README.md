@@ -13,14 +13,32 @@
 
 ### Skills
 
-| | |
-|---|---|
-| **Code & Development** | Python, Go, Bash, PowerShell, JavaScript, Terraform, Infrastructure as Code, GitOps, CI/CD, GitHub Actions, Docker, REST APIs |
-| **Endpoint Management** | Jamf Pro, Microsoft Intune, Windows Autopilot, Apple Business Manager, FleetDM, JumpCloud, Chef, Ansible, Puppet, Salt, Munki · zero-touch deployment, configuration profiles, system hardening, PKI · fleets across macOS, Windows, Linux, iOS, Android, ChromeOS |
-| **Identity & Access (IAM)** | Okta, Okta Workflows, SSO, SAML, SCIM, OAuth 2.0, OIDC, MFA, Entra ID, device trust, conditional access, RBAC, zero trust, least privilege, joiner-mover-leaver lifecycle, HRIS integration |
-| **Security & Compliance** | SOC 2, FedRAMP, HIPAA · EDR/XDR: CrowdStrike, SentinelOne, Microsoft Defender · CIS Benchmarks, MITRE ATT&CK, incident response, patch and vulnerability management |
-| **Cloud & Automation** | AWS, GCP, Azure, VPN and enterprise networking, disaster recovery, webhooks, observability and monitoring, on-call, runbooks, SRE practices |
-| **AI Enablement** | AI agentic workflows, LLM integration, Model Context Protocol (MCP) servers, AI gateway, AI governance, AI observability and evals, guardrails, agent skills and tooling, RAG pipelines, prompt engineering, custom full-stack AI applications, AI-first service delivery |
+<table>
+  <tr>
+    <td><strong>Code & Development</strong></td>
+    <td>Python, Go, Bash, PowerShell, JavaScript, Terraform, Infrastructure as Code, GitOps, CI/CD, GitHub Actions, Docker, REST APIs</td>
+  </tr>
+  <tr>
+    <td><strong>Endpoint Management</strong></td>
+    <td>Jamf Pro, Microsoft Intune, Windows Autopilot, Apple Business Manager, FleetDM, JumpCloud, Chef, Ansible, Puppet, Salt, Munki · zero-touch deployment, configuration profiles, system hardening, PKI · fleets across macOS, Windows, Linux, iOS, Android, ChromeOS</td>
+  </tr>
+  <tr>
+    <td><strong>Identity & Access (IAM)</strong></td>
+    <td>Okta, Okta Workflows, SSO, SAML, SCIM, OAuth 2.0, OIDC, MFA, Entra ID, device trust, conditional access, RBAC, zero trust, least privilege, joiner-mover-leaver lifecycle, HRIS integration</td>
+  </tr>
+  <tr>
+    <td><strong>Security & Compliance</strong></td>
+    <td>SOC 2, FedRAMP, HIPAA · EDR/XDR: CrowdStrike, SentinelOne, Microsoft Defender · CIS Benchmarks, MITRE ATT&CK, incident response, patch and vulnerability management</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & Automation</strong></td>
+    <td>AWS, GCP, Azure, VPN and enterprise networking, disaster recovery, webhooks, observability and monitoring, on-call, runbooks, SRE practices</td>
+  </tr>
+  <tr>
+    <td><strong>AI Enablement</strong></td>
+    <td>AI agentic workflows, LLM integration, Model Context Protocol (MCP) servers, AI gateway, AI governance, AI observability and evals, guardrails, agent skills and tooling, RAG pipelines, prompt engineering, custom full-stack AI applications, AI-first service delivery</td>
+  </tr>
+</table>
 
 ### Certifications
 
