@@ -1,6 +1,6 @@
 <h1 align="center">Amado Tejada<br><sub>Principal IT Systems Engineer</sub></h1>
 
-<p align="center">AI-First IT Automation · Agentic Workflows, MCPs & LLM-Powered Tooling · Security · MDM · Endpoint and Identity Management at Scale</p>
+<p align="center">AI-First IT Automation · Agentic Workflows, MCPs & LLM Tooling · Security · MDM · Endpoint and Identity Management at Scale</p>
 
 <p align="center">
   <picture>
