@@ -46,6 +46,7 @@
 - AWS Certified DevOps Engineer · Professional
 - AWS Certified Generative AI Developer · Professional
 - HashiCorp Certified: Terraform Associate
+- Make: AI Agent Builder
 
 #### Verify on [Credly](https://www.credly.com/users/amado-tejada)
 
