@@ -51,8 +51,8 @@
 #### Verify on [Credly](https://www.credly.com/users/amado-tejada)
 
 ### Owner
-- [TechDeploySolutions](https://techdeploysolutions.com) - IT consulting. We design, deploy and automate MDM, identity and AI agents, and build custom solutions.
-- [CorpMind.ai](https://corpmind.ai) - ChatGPT AI Assistants for your business. Trained from your company documents.
+- [TechDeploySolutions](https://techdeploysolutions.com) - IT consulting, automate MDM, identity and AI agents, and custom solutions.
+- [CorpMind.ai](https://corpmind.ai) - ChatGPT AI Assistants for your business. Trained from your company knowledge.
 
 ### Open sourced to the community
 
