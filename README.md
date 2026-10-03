@@ -52,7 +52,7 @@
 
 ### IT Consulting
 - [TechDeploySolutions](https://techdeploysolutions.com) - Automate IT, MDM, Identity, AI agents, and custom solutions.
-- [CorpMind.ai](https://corpmind.ai) - ChatGPT AI Assistants for your business. Trained from your company knowledge.
+- [CorpMind.ai](https://corpmind.ai) - AI agents for your business, developed from your company knowledge.
 
 ### Open sourced to the community
 
