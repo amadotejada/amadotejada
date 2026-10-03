@@ -50,9 +50,12 @@
 
 #### Verify on [Credly](https://www.credly.com/users/amado-tejada)
 
+### Owner
+- [TechDeploySolutions](https://techdeploysolutions.com) - IT consulting. We design, deploy and automate MDM, identity and AI agents, and build custom solutions.
+- [CorpMind.ai](https://corpmind.ai) - ChatGPT AI Assistants for your business. Trained from your company documents.
+
 ### Open sourced to the community
 
-- [CorpMind.ai](https://corpmind.ai) - ChatGPT AI Assistants for your business. Trained from your company documents.
 - [Self Portal](https://github.com/amadotejada/self-portal) - cross-platform desktop application to deploy software across your fleet via Chef and other frameworks
 - [Self Wiki](https://github.com/amadotejada/self-wiki) - tool to provide internal company information and help to employees right from the browser
 - [unopass](https://github.com/amadotejada/unopass) - convenient python module that allows you to retrieve secrets from 1Password CLI using your biometrics
