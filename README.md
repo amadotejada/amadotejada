@@ -5,15 +5,21 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=python%2Cgo%2Cbash%2Caws%2Cterraform%2Cdocker%2Capple%2Cgithubactions&theme=dark&perline=8">
-    <img alt="Python, Go, Bash, AWS, Terraform, Docker, macOS, GitHub Actions" height="40"
-      src="https://skillicons.dev/icons?i=python,go,bash,aws,terraform,docker,apple,githubactions&theme=light&perline=8">
+      srcset="https://go-skill-icons.vercel.app/api/icons?i=aws%2Cterraform%2Cgithubactions%2Cclaude%2Cchatgpt%2Cgemini%2Cmcp&theme=dark&perline=8">
+    <img alt="AWS, Terraform, GitHub Actions, Claude, ChatGPT, Gemini, MCP" height="40"
+      src="https://go-skill-icons.vercel.app/api/icons?i=aws,terraform,githubactions,claude,chatgpt,gemini,mcp&theme=light&perline=8">
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/it-tools-dark.svg">
+    <img alt="Okta, Jamf Pro, Microsoft Intune, Microsoft Entra ID, CrowdStrike, SentinelOne, FleetDM" height="40"
+      src="assets/it-tools-light.svg">
   </picture>
 </p>
 
 <p align="center">
   <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ2EutrM_V1lp_jSliGz_bJgSlsvuNJLYFtY5MK58xzDswYyuEvtAuiG7TB-GqWEd5K30FbNUDaK">
-    <img alt="Book a 30-min chat" src="https://img.shields.io/badge/Schedule%20a%20quick%20chat-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white">
+    <img alt="Schedule a quick chat" src="https://img.shields.io/badge/Schedule%20a%20quick%20chat-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white">
   </a>
 </p>
 
