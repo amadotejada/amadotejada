@@ -11,6 +11,12 @@
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ2EutrM_V1lp_jSliGz_bJgSlsvuNJLYFtY5MK58xzDswYyuEvtAuiG7TB-GqWEd5K30FbNUDaK">
+    <img alt="Book a 30-min chat" src="https://img.shields.io/badge/Schedule%20a%20quick%20chat-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white">
+  </a>
+</p>
+
 ### Skills
 
 <table>
