@@ -28,7 +28,7 @@
 <table>
   <tr>
     <td><strong>Code & Development</strong></td>
-    <td>Python, Go, Bash, PowerShell, JavaScript, Terraform, Infrastructure as Code, GitOps, CI/CD, GitHub Actions, Docker, REST APIs</td>
+    <td>Python, Go, Bash, PowerShell, JavaScript, Terraform, OpenTofu, Infrastructure as Code, GitOps, CI/CD, GitHub Actions, Docker, REST APIs</td>
   </tr>
   <tr>
     <td><strong>Endpoint Management</strong></td>
