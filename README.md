@@ -68,6 +68,7 @@
 
 ### Open sourced to the community
 
+- [Terraform-Okta-Management](https://github.com/amadotejada/terraform-okta-group-rules) - beginner friendly approach to Okta Group Rules managed by Terraform
 - [Self Portal](https://github.com/amadotejada/self-portal) - cross-platform desktop application to deploy software across your fleet via Chef and other frameworks
 - [Self Wiki](https://github.com/amadotejada/self-wiki) - tool to provide internal company information and help to employees right from the browser
 - [unopass](https://github.com/amadotejada/unopass) - convenient python module that allows you to retrieve secrets from 1Password CLI using your biometrics
