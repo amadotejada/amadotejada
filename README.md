@@ -52,15 +52,13 @@
   </tr>
 </table>
 
-### Certifications
+### Certifications · Verify on [Credly](https://www.credly.com/users/amado-tejada)
 
 - AWS Certified Solutions Architect · Professional
 - AWS Certified DevOps Engineer · Professional
 - AWS Certified Generative AI Developer · Professional
 - HashiCorp Certified: Terraform Associate
 - Make: AI Agent Builder
-
-#### Verify on [Credly](https://www.credly.com/users/amado-tejada)
 
 ### IT Consulting
 - [TechDeploySolutions](https://techdeploysolutions.com) - Automate IT, MDM, Identity, AI agents, and custom solutions.
