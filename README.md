@@ -26,6 +26,10 @@
 ### Skills
 
 <table>
+    <tr>
+    <td><strong>AI Enablement</strong></td>
+    <td>AI agentic workflows, LLM integration, Model Context Protocol (MCP) servers, AI gateways, AI governance, AI observability and evals, guardrails, skills, plugins, RAG pipelines, prompt engineering, custom full-stack AI applications, AI-first service delivery</td>
+  </tr>
   <tr>
     <td><strong>Code & Development</strong></td>
     <td>Python, Go, Bash, PowerShell, JavaScript, Terraform, OpenTofu, Infrastructure as Code, GitOps, CI/CD, GitHub Actions, Docker, REST APIs</td>
@@ -45,10 +49,6 @@
   <tr>
     <td><strong>Cloud & Automation</strong></td>
     <td>AWS, GCP, Azure, VPN and enterprise networking, disaster recovery, webhooks, observability and monitoring, on-call, runbooks, SRE practices</td>
-  </tr>
-  <tr>
-    <td><strong>AI Enablement</strong></td>
-    <td>AI agentic workflows, LLM integration, Model Context Protocol (MCP) servers, AI gateway, AI governance, AI observability and evals, guardrails, agent skills and tooling, RAG pipelines, prompt engineering, custom full-stack AI applications, AI-first service delivery</td>
   </tr>
 </table>
 
